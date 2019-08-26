@@ -9,5 +9,6 @@ https://fixer.io/
 
 ### Image about similar currencies to CRC against the USD, today
 
-![image](https://user-images.githubusercontent.com/20632410/63659123-ce1e5300-c76c-11e9-9de4-7655729f3c03.png)
+![image](https://user-images.githubusercontent.com/20632410/63659601-7c2afc80-c76f-11e9-95ed-a437aed1fdfc.png)
+
 
